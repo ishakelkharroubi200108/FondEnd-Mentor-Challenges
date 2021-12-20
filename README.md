@@ -1,1 +1,1 @@
-# FondEnd-Mentor-Challenges
+# FondEnd-Mentor
